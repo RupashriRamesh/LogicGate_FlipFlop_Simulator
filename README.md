@@ -1,10 +1,10 @@
+# LogicGate_FlipFlop_Simulator
 
-# Logic Gate & Flip-Flop Simulator
-
+Logic Gate & Flip-Flop Simulator built with Tcl/Tk. Simulate logic gates (AND, OR, XOR, etc.) and flip-flops (SR, JK, D, T) with binary inputs. Supports nested expressions, binary validation, and error handling. Simple GUI for easy interaction, ideal for learning and testing digital logic circuits.
 
 ## Overview
 This project is a simple simulator for **Logic Gates** and **Flip-Flops** implemented in **Tcl**. It allows users to evaluate common logic gates (AND, OR, NAND, etc.) and flip-flop operations (SR, JK, D, T) by providing binary inputs.
- 
+
 ## Installation
 1. Install **Tcl** and **Tk** on your system if they are not already installed.
    - Download and install Tcl and Tk from [here](https://www.tcl.tk/software/tcltk/download.html).
